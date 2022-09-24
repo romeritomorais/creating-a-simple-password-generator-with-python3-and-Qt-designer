@@ -20,4 +20,7 @@ sudo dnf install qttools5-dev-tools
 
 contact:  
 https://www.linkedin.com/in/romeritomorais/  
-https://romeritomorais.substack.com/
+https://romeritomorais.substack.com/  
+
+
+![MarineGEO circle logo](https://github.com/romeritomorais/creating-a-simple-password-generator-with-python3-and-Qt-designer/blob/main/src/img/main.png "MarineGEO logo")
