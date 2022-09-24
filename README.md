@@ -1,0 +1,1 @@
+# creating-a-simple-password-generator-with-python3-and-Qt-designer
