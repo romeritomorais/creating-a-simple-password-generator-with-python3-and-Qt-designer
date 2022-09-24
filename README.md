@@ -18,6 +18,6 @@ sudo dnf install pyqt5-dev-tools
 sudo dnf install qttools5-dev-tools
 ```
 
-contato:
-https://www.linkedin.com/in/romeritomorais/
+contato:  
+https://www.linkedin.com/in/romeritomorais/  
 https://romeritomorais.substack.com/
