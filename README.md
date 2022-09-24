@@ -23,4 +23,12 @@ https://www.linkedin.com/in/romeritomorais/
 https://romeritomorais.substack.com/  
 
 
-![MarineGEO circle logo](https://github.com/romeritomorais/creating-a-simple-password-generator-with-python3-and-Qt-designer/blob/main/src/img/main.png "MarineGEO logo")
+![MarineGEO circle logo](https://github.com/romeritomorais/creating-a-simple-password-generator-with-python3-and-Qt-designer/blob/main/src/img/main.png "MarineGEO logo")  
+
+authors:  
+
+codigo que gera senhas  
+https://www.linkedin.com/in/iuryrosal/
+
+criação de interface e adaptação/criação de código  
+https://www.linkedin.com/in/romeritomorais/
